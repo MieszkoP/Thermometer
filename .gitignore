@@ -1,0 +1,25 @@
+# STM32CubeIDE
+.settings/
+.project
+.cproject
+.mxproject
+
+# Build outputs
+Debug/
+Release/
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
